@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df71e63b-ed7f-48d2-b123-3a486116a98d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/Patches/LocationSecnePatch.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/Weapons/WeaponUtils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Classes/Misc/CameraUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/Misc/CameraUtils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Classes/Misc/WorldUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/Misc/WorldUtils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Classes/PlayerStats/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/PlayerStats/Health.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Classes/PlayerStats/SkillzClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/PlayerStats/SkillzClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Classes/Weapons/RecoilControlSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Classes/Weapons/RecoilControlSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Entry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Entry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/Tarky-Menu.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/Tarky-Menu.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/bin/Debug/ConfigurationManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/bin/Debug/ConfigurationManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/bin/Debug/Tarky-Menu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/bin/Debug/Tarky-Menu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/bin/Debug/Tarky-Menu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/bin/Debug/Tarky-Menu.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tarky-Menu/obj/Debug/Tarky-Menu.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2b480cfba3fd4ee98dd33579220a6fc88e3400/89/794c0f85/LocationScene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2b480cfba3fd4ee98dd33579220a6fc88e3400/b4/53baaa9c/WorldInteractiveObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42787f1e61944d5b8428e15b82ac9c47f7a00/d1/07653a74/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GhostMode/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AaXQxYG7mEX0iY35ABWTh9Rak3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RiderProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df71e63b-ed7f-48d2-b123-3a486116a98d" name="Changes" comment="" />
+      <created>1655248658197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655248658197</updated>
+      <workItem from="1655248665480" duration="77000" />
+      <workItem from="1655248855775" duration="3000" />
+      <workItem from="1655250231858" duration="225000" />
+      <workItem from="1655251494026" duration="93000" />
+      <workItem from="1655251733788" duration="549000" />
+      <workItem from="1655253630713" duration="16058000" />
+      <workItem from="1655324652213" duration="275000" />
+      <workItem from="1655343604643" duration="10347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
